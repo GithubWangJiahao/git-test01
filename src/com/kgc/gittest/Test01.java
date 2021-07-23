@@ -9,4 +9,7 @@ public class Test01 {
             System.out.println("i = " + i);
         }
     }
+    public void doSome() {
+        System.out.println("doSome 被克隆");
+    }
 }
